@@ -3805,6 +3805,8 @@ table.list.enumerations + p {
 @media screen and (min-width: 1200px) {
   .issue div.attributes .splitcontentleft {
     width: auto;
+    max-width: 50%;
+    min-width: 30%;
   }
   .issue div.attributes .attribute .value {
     min-width: 160px;
