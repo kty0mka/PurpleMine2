@@ -2712,6 +2712,696 @@ a.tracker-7.closed:hover::after {
 tr.tracker-7 .id > a::before {
   color: #a7b2f2;
 }
+.parent > a.tracker-8,
+.relations > span > a.tracker-8,
+a.tracker-8,
+a.tracker-8.issue,
+tr.tracker-8 .id > a,
+tr.tracker-8 .issue_id > a {
+  background-color: #d94e1f;
+  color: #fff;
+}
+.parent > a.tracker-8:hover,
+.relations > span > a.tracker-8:hover,
+a.tracker-8.issue:hover,
+a.tracker-8:hover,
+tr.tracker-8 .id > a:hover,
+tr.tracker-8 .issue_id > a:hover {
+  background-color: #b23b17;
+  color: #fff;
+}
+a.tracker-8.closed {
+  color: #f2b2a6;
+}
+a.tracker-8.closed::after {
+  border-top-color: rgba(255, 255, 255, 0.95);
+}
+a.tracker-8.closed:hover::after {
+  border-top-color: rgba(255, 255, 255, 0.25);
+}
+tr.tracker-8 .id > a::before {
+  color: #e68b79;
+}
+.parent > a.tracker-9,
+.relations > span > a.tracker-9,
+a.tracker-9,
+a.tracker-9.issue,
+tr.tracker-9 .id > a,
+tr.tracker-9 .issue_id > a {
+  background-color: #3f88c5;
+  color: #fff;
+}
+.parent > a.tracker-9:hover,
+.relations > span > a.tracker-9:hover,
+a.tracker-9.issue:hover,
+a.tracker-9:hover,
+tr.tracker-9 .id > a:hover,
+tr.tracker-9 .issue_id > a:hover {
+  background-color: #356ea2;
+  color: #fff;
+}
+a.tracker-9.closed {
+  color: #b2d8f0;
+}
+a.tracker-9.closed::after {
+  border-top-color: rgba(255, 255, 255, 0.95);
+}
+a.tracker-9.closed:hover::after {
+  border-top-color: rgba(255, 255, 255, 0.25);
+}
+tr.tracker-9 .id > a::before {
+  color: #82b9e1;
+}
+.parent > a.tracker-10,
+.relations > span > a.tracker-10,
+a.tracker-10,
+a.tracker-10.issue,
+tr.tracker-10 .id > a,
+tr.tracker-10 .issue_id > a {
+  background-color: #cf7500;
+  color: #fff;
+}
+.parent > a.tracker-10:hover,
+.relations > span > a.tracker-10:hover,
+a.tracker-10.issue:hover,
+a.tracker-10:hover,
+tr.tracker-10 .id > a:hover,
+tr.tracker-10 .issue_id > a:hover {
+  background-color: #a35b00;
+  color: #fff;
+}
+a.tracker-10.closed {
+  color: #ffc07f;
+}
+a.tracker-10.closed::after {
+  border-top-color: rgba(255, 255, 255, 0.95);
+}
+a.tracker-10.closed:hover::after {
+  border-top-color: rgba(255, 255, 255, 0.25);
+}
+tr.tracker-10 .id > a::before {
+  color: #ffa34d;
+}
+.parent > a.tracker-11,
+.relations > span > a.tracker-11,
+a.tracker-11,
+a.tracker-11.issue,
+tr.tracker-11 .id > a,
+tr.tracker-11 .issue_id > a {
+  background-color: #5c940d;
+  color: #fff;
+}
+.parent > a.tracker-11:hover,
+.relations > span > a.tracker-11:hover,
+a.tracker-11.issue:hover,
+a.tracker-11:hover,
+tr.tracker-11 .id > a:hover,
+tr.tracker-11 .issue_id > a:hover {
+  background-color: #457109;
+  color: #fff;
+}
+a.tracker-11.closed {
+  color: #bde37c;
+}
+a.tracker-11.closed::after {
+  border-top-color: rgba(255, 255, 255, 0.95);
+}
+a.tracker-11.closed:hover::after {
+  border-top-color: rgba(255, 255, 255, 0.25);
+}
+tr.tracker-11 .id > a::before {
+  color: #9bcc55;
+}
+.parent > a.tracker-12,
+.relations > span > a.tracker-12,
+a.tracker-12,
+a.tracker-12.issue,
+tr.tracker-12 .id > a,
+tr.tracker-12 .issue_id > a {
+  background-color: #953553;
+  color: #fff;
+}
+.parent > a.tracker-12:hover,
+.relations > span > a.tracker-12:hover,
+a.tracker-12.issue:hover,
+a.tracker-12:hover,
+tr.tracker-12 .id > a:hover,
+tr.tracker-12 .issue_id > a:hover {
+  background-color: #722942;
+  color: #fff;
+}
+a.tracker-12.closed {
+  color: #e4a6bf;
+}
+a.tracker-12.closed::after {
+  border-top-color: rgba(255, 255, 255, 0.95);
+}
+a.tracker-12.closed:hover::after {
+  border-top-color: rgba(255, 255, 255, 0.25);
+}
+tr.tracker-12 .id > a::before {
+  color: #d17895;
+}
+.parent > a.tracker-13,
+.relations > span > a.tracker-13,
+a.tracker-13,
+a.tracker-13.issue,
+tr.tracker-13 .id > a,
+tr.tracker-13 .issue_id > a {
+  background-color: #46787f;
+  color: #fff;
+}
+.parent > a.tracker-13:hover,
+.relations > span > a.tracker-13:hover,
+a.tracker-13.issue:hover,
+a.tracker-13:hover,
+tr.tracker-13 .id > a:hover,
+tr.tracker-13 .issue_id > a:hover {
+  background-color: #365c61;
+  color: #fff;
+}
+a.tracker-13.closed {
+  color: #a8d1d4;
+}
+a.tracker-13.closed::after {
+  border-top-color: rgba(255, 255, 255, 0.95);
+}
+a.tracker-13.closed:hover::after {
+  border-top-color: rgba(255, 255, 255, 0.25);
+}
+tr.tracker-13 .id > a::before {
+  color: #75b6ba;
+}
+.parent > a.tracker-14,
+.relations > span > a.tracker-14,
+a.tracker-14,
+a.tracker-14.issue,
+tr.tracker-14 .id > a,
+tr.tracker-14 .issue_id > a {
+  background-color: #744e9d;
+  color: #fff;
+}
+.parent > a.tracker-14:hover,
+.relations > span > a.tracker-14:hover,
+a.tracker-14.issue:hover,
+a.tracker-14:hover,
+tr.tracker-14 .id > a:hover,
+tr.tracker-14 .issue_id > a:hover {
+  background-color: #593c77;
+  color: #fff;
+}
+a.tracker-14.closed {
+  color: #d2b3e5;
+}
+a.tracker-14.closed::after {
+  border-top-color: rgba(255, 255, 255, 0.95);
+}
+a.tracker-14.closed:hover::after {
+  border-top-color: rgba(255, 255, 255, 0.25);
+}
+tr.tracker-14 .id > a::before {
+  color: #b587d6;
+}
+.parent > a.tracker-15,
+.relations > span > a.tracker-15,
+a.tracker-15,
+a.tracker-15.issue,
+tr.tracker-15 .id > a,
+tr.tracker-15 .issue_id > a {
+  background-color: #ffba08;
+  color: #fff;
+}
+.parent > a.tracker-15:hover,
+.relations > span > a.tracker-15:hover,
+a.tracker-15.issue:hover,
+a.tracker-15:hover,
+tr.tracker-15 .id > a:hover,
+tr.tracker-15 .issue_id > a:hover {
+  background-color: #e5a007;
+  color: #fff;
+}
+a.tracker-15.closed {
+  color: #ffe7b5;
+}
+a.tracker-15.closed::after {
+  border-top-color: rgba(255, 255, 255, 0.95);
+}
+a.tracker-15.closed:hover::after {
+  border-top-color: rgba(255, 255, 255, 0.25);
+}
+tr.tracker-15 .id > a::before {
+  color: #ffd580;
+}
+.parent > a.tracker-16,
+.relations > span > a.tracker-16,
+a.tracker-16,
+a.tracker-16.issue,
+tr.tracker-16 .id > a,
+tr.tracker-16 .issue_id > a {
+  background-color: #b22222;
+  color: #fff;
+}
+.parent > a.tracker-16:hover,
+.relations > span > a.tracker-16:hover,
+a.tracker-16.issue:hover,
+a.tracker-16:hover,
+tr.tracker-16 .id > a:hover,
+tr.tracker-16 .issue_id > a:hover {
+  background-color: #8b1a1a;
+  color: #fff;
+}
+a.tracker-16.closed {
+  color: #e99393;
+}
+a.tracker-16.closed::after {
+  border-top-color: rgba(255, 255, 255, 0.95);
+}
+a.tracker-16.closed:hover::after {
+  border-top-color: rgba(255, 255, 255, 0.25);
+}
+tr.tracker-16 .id > a::before {
+  color: #d56767;
+}
+.parent > a.tracker-17,
+.relations > span > a.tracker-17,
+a.tracker-17,
+a.tracker-17.issue,
+tr.tracker-17 .id > a,
+tr.tracker-17 .issue_id > a {
+  background-color: #1e88e5;
+  color: #fff;
+}
+.parent > a.tracker-17:hover,
+.relations > span > a.tracker-17:hover,
+a.tracker-17.issue:hover,
+a.tracker-17:hover,
+tr.tracker-17 .id > a:hover,
+tr.tracker-17 .issue_id > a:hover {
+  background-color: #1565c0;
+  color: #fff;
+}
+a.tracker-17.closed {
+  color: #90caf9;
+}
+a.tracker-17.closed::after {
+  border-top-color: rgba(255, 255, 255, 0.95);
+}
+a.tracker-17.closed:hover::after {
+  border-top-color: rgba(255, 255, 255, 0.25);
+}
+tr.tracker-17 .id > a::before {
+  color: #64b5f6;
+}
+.parent > a.tracker-18,
+.relations > span > a.tracker-18,
+a.tracker-18,
+a.tracker-18.issue,
+tr.tracker-18 .id > a,
+tr.tracker-18 .issue_id > a {
+  background-color: #6a1b9a;
+  color: #fff;
+}
+.parent > a.tracker-18:hover,
+.relations > span > a.tracker-18:hover,
+a.tracker-18.issue:hover,
+a.tracker-18:hover,
+tr.tracker-18 .id > a:hover,
+tr.tracker-18 .issue_id > a:hover {
+  background-color: #4a148c;
+  color: #fff;
+}
+a.tracker-18.closed {
+  color: #ba68c8;
+}
+a.tracker-18.closed::after {
+  border-top-color: rgba(255, 255, 255, 0.95);
+}
+a.tracker-18.closed:hover::after {
+  border-top-color: rgba(255, 255, 255, 0.25);
+}
+tr.tracker-18 .id > a::before {
+  color: #ab47bc;
+}
+.parent > a.tracker-19,
+.relations > span > a.tracker-19,
+a.tracker-19,
+a.tracker-19.issue,
+tr.tracker-19 .id > a,
+tr.tracker-19 .issue_id > a {
+  background-color: #004d40;
+  color: #fff;
+}
+.parent > a.tracker-19:hover,
+.relations > span > a.tracker-19:hover,
+a.tracker-19.issue:hover,
+a.tracker-19:hover,
+tr.tracker-19 .id > a:hover,
+tr.tracker-19 .issue_id > a:hover {
+  background-color: #002d27;
+  color: #fff;
+}
+a.tracker-19.closed {
+  color: #80cbc4;
+}
+a.tracker-19.closed::after {
+  border-top-color: rgba(255, 255, 255, 0.95);
+}
+a.tracker-19.closed:hover::after {
+  border-top-color: rgba(255, 255, 255, 0.25);
+}
+tr.tracker-19 .id > a::before {
+  color: #4db6ac;
+}
+.parent > a.tracker-20,
+.relations > span > a.tracker-20,
+a.tracker-20,
+a.tracker-20.issue,
+tr.tracker-20 .id > a,
+tr.tracker-20 .issue_id > a {
+  background-color: #ff7043;
+  color: #fff;
+}
+.parent > a.tracker-20:hover,
+.relations > span > a.tracker-20:hover,
+a.tracker-20.issue:hover,
+a.tracker-20:hover,
+tr.tracker-20 .id > a:hover,
+tr.tracker-20 .issue_id > a:hover {
+  background-color: #e64a19;
+  color: #fff;
+}
+a.tracker-20.closed {
+  color: #ffccbc;
+}
+a.tracker-20.closed::after {
+  border-top-color: rgba(255, 255, 255, 0.95);
+}
+a.tracker-20.closed:hover::after {
+  border-top-color: rgba(255, 255, 255, 0.25);
+}
+tr.tracker-20 .id > a::before {
+  color: #ffab91;
+}
+.parent > a.tracker-21,
+.relations > span > a.tracker-21,
+a.tracker-21,
+a.tracker-21.issue,
+tr.tracker-21 .id > a,
+tr.tracker-21 .issue_id > a {
+  background-color: #2e7d32;
+  color: #fff;
+}
+.parent > a.tracker-21:hover,
+.relations > span > a.tracker-21:hover,
+a.tracker-21.issue:hover,
+a.tracker-21:hover,
+tr.tracker-21 .id > a:hover,
+tr.tracker-21 .issue_id > a:hover {
+  background-color: #1b5e20;
+  color: #fff;
+}
+a.tracker-21.closed {
+  color: #a5d6a7;
+}
+a.tracker-21.closed::after {
+  border-top-color: rgba(255, 255, 255, 0.95);
+}
+a.tracker-21.closed:hover::after {
+  border-top-color: rgba(255, 255, 255, 0.25);
+}
+tr.tracker-21 .id > a::before {
+  color: #81c784;
+}
+.parent > a.tracker-22,
+.relations > span > a.tracker-22,
+a.tracker-22,
+a.tracker-22.issue,
+tr.tracker-22 .id > a,
+tr.tracker-22 .issue_id > a {
+  background-color: #d84315;
+  color: #fff;
+}
+.parent > a.tracker-22:hover,
+.relations > span > a.tracker-22:hover,
+a.tracker-22.issue:hover,
+a.tracker-22:hover,
+tr.tracker-22 .id > a:hover,
+tr.tracker-22 .issue_id > a:hover {
+  background-color: #bf360c;
+  color: #fff;
+}
+a.tracker-22.closed {
+  color: #ff8a65;
+}
+a.tracker-22.closed::after {
+  border-top-color: rgba(255, 255, 255, 0.95);
+}
+a.tracker-22.closed:hover::after {
+  border-top-color: rgba(255, 255, 255, 0.25);
+}
+tr.tracker-22 .id > a::before {
+  color: #ff7043;
+}
+.parent > a.tracker-23,
+.relations > span > a.tracker-23,
+a.tracker-23,
+a.tracker-23.issue,
+tr.tracker-23 .id > a,
+tr.tracker-23 .issue_id > a {
+  background-color: #6d4c41;
+  color: #fff;
+}
+.parent > a.tracker-23:hover,
+.relations > span > a.tracker-23:hover,
+a.tracker-23.issue:hover,
+a.tracker-23:hover,
+tr.tracker-23 .id > a:hover,
+tr.tracker-23 .issue_id > a:hover {
+  background-color: #4e342e;
+  color: #fff;
+}
+a.tracker-23.closed {
+  color: #bcaaa4;
+}
+a.tracker-23.closed::after {
+  border-top-color: rgba(255, 255, 255, 0.95);
+}
+a.tracker-23.closed:hover::after {
+  border-top-color: rgba(255, 255, 255, 0.25);
+}
+tr.tracker-23 .id > a::before {
+  color: #a1887f;
+}
+.parent > a.tracker-24,
+.relations > span > a.tracker-24,
+a.tracker-24,
+a.tracker-24.issue,
+tr.tracker-24 .id > a,
+tr.tracker-24 .issue_id > a {
+  background-color: #607d8b;
+  color: #fff;
+}
+.parent > a.tracker-24:hover,
+.relations > span > a.tracker-24:hover,
+a.tracker-24.issue:hover,
+a.tracker-24:hover,
+tr.tracker-24 .id > a:hover,
+tr.tracker-24 .issue_id > a:hover {
+  background-color: #455a64;
+  color: #fff;
+}
+a.tracker-24.closed {
+  color: #b0bec5;
+}
+a.tracker-24.closed::after {
+  border-top-color: rgba(255, 255, 255, 0.95);
+}
+a.tracker-24.closed:hover::after {
+  border-top-color: rgba(255, 255, 255, 0.25);
+}
+tr.tracker-24 .id > a::before {
+  color: #90a4ae;
+}
+.parent > a.tracker-25,
+.relations > span > a.tracker-25,
+a.tracker-25,
+a.tracker-25.issue,
+tr.tracker-25 .id > a,
+tr.tracker-25 .issue_id > a {
+  background-color: #ffeb3b;
+  color: #fff;
+}
+.parent > a.tracker-25:hover,
+.relations > span > a.tracker-25:hover,
+a.tracker-25.issue:hover,
+a.tracker-25:hover,
+tr.tracker-25 .id > a:hover,
+tr.tracker-25 .issue_id > a:hover {
+  background-color: #fbc02d;
+  color: #fff;
+}
+a.tracker-25.closed {
+  color: #fff59d;
+}
+a.tracker-25.closed::after {
+  border-top-color: rgba(255, 255, 255, 0.95);
+}
+a.tracker-25.closed:hover::after {
+  border-top-color: rgba(255, 255, 255, 0.25);
+}
+tr.tracker-25 .id > a::before {
+  color: #fff176;
+}
+.parent > a.tracker-26,
+.relations > span > a.tracker-26,
+a.tracker-26,
+a.tracker-26.issue,
+tr.tracker-26 .id > a,
+tr.tracker-26 .issue_id > a {
+  background-color: #0288d1;
+  color: #fff;
+}
+.parent > a.tracker-26:hover,
+.relations > span > a.tracker-26:hover,
+a.tracker-26.issue:hover,
+a.tracker-26:hover,
+tr.tracker-26 .id > a:hover,
+tr.tracker-26 .issue_id > a:hover {
+  background-color: #0277bd;
+  color: #fff;
+}
+a.tracker-26.closed {
+  color: #81d4fa;
+}
+a.tracker-26.closed::after {
+  border-top-color: rgba(255, 255, 255, 0.95);
+}
+a.tracker-26.closed:hover::after {
+  border-top-color: rgba(255, 255, 255, 0.25);
+}
+tr.tracker-26 .id > a::before {
+  color: #4fc3f7;
+}
+.parent > a.tracker-27,
+.relations > span > a.tracker-27,
+a.tracker-27,
+a.tracker-27.issue,
+tr.tracker-27 .id > a,
+tr.tracker-27 .issue_id > a {
+  background-color: #c2185b;
+  color: #fff;
+}
+.parent > a.tracker-27:hover,
+.relations > span > a.tracker-27:hover,
+a.tracker-27.issue:hover,
+a.tracker-27:hover,
+tr.tracker-27 .id > a:hover,
+tr.tracker-27 .issue_id > a:hover {
+  background-color: #880e4f;
+  color: #fff;
+}
+a.tracker-27.closed {
+  color: #f48fb1;
+}
+a.tracker-27.closed::after {
+  border-top-color: rgba(255, 255, 255, 0.95);
+}
+a.tracker-27.closed:hover::after {
+  border-top-color: rgba(255, 255, 255, 0.25);
+}
+tr.tracker-27 .id > a::before {
+  color: #f06292;
+}
+.parent > a.tracker-28,
+.relations > span > a.tracker-28,
+a.tracker-28,
+a.tracker-28.issue,
+tr.tracker-28 .id > a,
+tr.tracker-28 .issue_id > a {
+  background-color: #7b1fa2;
+  color: #fff;
+}
+.parent > a.tracker-28:hover,
+.relations > span > a.tracker-28:hover,
+a.tracker-28.issue:hover,
+a.tracker-28:hover,
+tr.tracker-28 .id > a:hover,
+tr.tracker-28 .issue_id > a:hover {
+  background-color: #6a1b9a;
+  color: #fff;
+}
+a.tracker-28.closed {
+  color: #ce93d8;
+}
+a.tracker-28.closed::after {
+  border-top-color: rgba(255, 255, 255, 0.95);
+}
+a.tracker-28.closed:hover::after {
+  border-top-color: rgba(255, 255, 255, 0.25);
+}
+tr.tracker-28 .id > a::before {
+  color: #ba68c8;
+}
+.parent > a.tracker-29,
+.relations > span > a.tracker-29,
+a.tracker-29,
+a.tracker-29.issue,
+tr.tracker-29 .id > a,
+tr.tracker-29 .issue_id > a {
+  background-color: #388e3c;
+  color: #fff;
+}
+.parent > a.tracker-29:hover,
+.relations > span > a.tracker-29:hover,
+a.tracker-29.issue:hover,
+a.tracker-29:hover,
+tr.tracker-29 .id > a:hover,
+tr.tracker-29 .issue_id > a:hover {
+  background-color: #2e7d32;
+  color: #fff;
+}
+a.tracker-29.closed {
+  color: #a5d6a7;
+}
+a.tracker-29.closed::after {
+  border-top-color: rgba(255, 255, 255, 0.95);
+}
+a.tracker-29.closed:hover::after {
+  border-top-color: rgba(255, 255, 255, 0.25);
+}
+tr.tracker-29 .id > a::before {
+  color: #81c784;
+}
+.parent > a.tracker-30,
+.relations > span > a.tracker-30,
+a.tracker-30,
+a.tracker-30.issue,
+tr.tracker-30 .id > a,
+tr.tracker-30 .issue_id > a {
+  background-color: #e64a19;
+  color: #fff;
+}
+.parent > a.tracker-30:hover,
+.relations > span > a.tracker-30:hover,
+a.tracker-30.issue:hover,
+a.tracker-30:hover,
+tr.tracker-30 .id > a:hover,
+tr.tracker-30 .issue_id > a:hover {
+  background-color: #d84315;
+  color: #fff;
+}
+a.tracker-30.closed {
+  color: #ff8a65;
+}
+a.tracker-30.closed::after {
+  border-top-color: rgba(255, 255, 255, 0.95);
+}
+a.tracker-30.closed:hover::after {
+  border-top-color: rgba(255, 255, 255, 0.25);
+}
+tr.tracker-30 .id > a::before {
+  color: #ff7043;
+}
 tr.group > td {
   border-bottom: 1px solid #e3e5ec;
   font-weight: 600;
